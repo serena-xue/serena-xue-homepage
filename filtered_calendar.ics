@@ -1,0 +1,2244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Calendar events for the user\, Serena Xue
+X-WR-CALNAME:Serena Xue Calendar (Canvas)
+BEGIN:VEVENT
+SUMMARY:Deliverable #4: Post-Skills & Internship Experience Assessment Sur
+ vey (MANDATORY ASSIGNMENT) [Summer 2025 - Heinz Internship Extension Cours
+ e]
+DTSTART;VALUE=DATE:20250815
+DTSTAMP:20250714T040000Z
+UID:event-assignment-782857
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:You must have completed Module 1\, Module 2\, and Module 3  t
+ o move forward with the instructions below.\n\nPlease complete the short p
+ ost-internship survey regarding skills and tools you have utilized during 
+ your summer internship at this link: https://eforms.heinz.cmu.edu/heinzstu
+ dentforms/internStuEvaForm\n\nCompletion of this survey is mandatory.
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4452
+ 6&month=08&year=2025#assignment_782857
+X-ALT-DESC;FMTTYPE=text/html:<p><strong>You must have completed Module 1\,
+  Module 2\, and Module 3 <span>&nbsp\;</span>to move forward with the inst
+ ructions below.</strong></p>\n<p><span style="font-size: 12pt\;">Please co
+ mplete the short post-internship survey regarding skills and tools you hav
+ e utilized during your summer internship at this link: </span><span style=
+ "font-size: 11.0pt\; color: black\;"><a href="https://eforms.heinz.cmu.edu
+ /heinzstudentforms/internStuEvaForm" target="_blank" data-saferedirecturl=
+ "https://www.google.com/url?q=https://eforms.heinz.cmu.edu/heinzstudentfor
+ ms/internStuEvaForm&amp\;source=gmail&amp\;ust=1659096852279000&amp\;usg=A
+ OvVaw1RCJA3qhmrfGv-HS8giIHl"><span style="font-size: 12pt\;">https://eform
+ s.heinz.cmu.edu/heinzstudentforms/internStuEvaForm</span></a></span></p>\n
+ <p><strong>Completion of this survey is mandatory.</strong></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (95712-A) [95712]
+DTSTART:20250828T193000Z
+DTEND:20250828T193000Z
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-90917
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (95712-D) [95712]
+DTSTART:20250828T210000Z
+DTEND:20250828T210000Z
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-90916
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 1 [95712]
+DTSTART;VALUE=DATE:20250829
+DTSTAMP:20250911T191000Z
+UID:event-assignment-861162
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861162
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (1 student) [95712]
+DTSTART:20250830T180000Z
+DTEND:20250830T180000Z
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-91252
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (1 student) [95712]
+DTSTART:20250830T180000Z
+DTEND:20250830T180000Z
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-91281
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (1 student) [95712]
+DTSTART:20250830T180000Z
+DTEND:20250830T180000Z
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-91311
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 2 (95712-A) [95712]
+DTSTART:20250830T193000Z
+DTEND:20250830T193000Z
+DTSTAMP:20250911T190500Z
+UID:event-assignment-override-91237
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab2.pdf] (https://canvas.cmu.edu/courses/48631/files/1298392
+ 9?wrap=1)\n\n[StringStuff.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983777?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861148
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9882982" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983929?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983929" data-api-returntype="File">Lab2.pdf</a></p>\n<p
+ ><a id="9844290" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983777?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983777" data-api-returntype="File">StringStuff.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 2 (95712-D) [95712]
+DTSTART:20250830T210000Z
+DTEND:20250830T210000Z
+DTSTAMP:20250911T190500Z
+UID:event-assignment-override-91236
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab2.pdf] (https://canvas.cmu.edu/courses/48631/files/1298392
+ 9?wrap=1)\n\n[StringStuff.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983777?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861148
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9882982" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983929?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983929" data-api-returntype="File">Lab2.pdf</a></p>\n<p
+ ><a id="9844290" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983777?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983777" data-api-returntype="File">StringStuff.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.2 [95712]
+DTSTART;VALUE=DATE:20250831
+DTSTAMP:20250911T190100Z
+UID:event-assignment-861181
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861181
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250831
+DTSTAMP:20250911T190500Z
+UID:event-assignment-override-91383
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab2.pdf] (https://canvas.cmu.edu/courses/48631/files/1298392
+ 9?wrap=1)\n\n[StringStuff.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983777?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861148
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9882982" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983929?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983929" data-api-returntype="File">Lab2.pdf</a></p>\n<p
+ ><a id="9844290" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983777?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983777" data-api-returntype="File">StringStuff.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.1 [95712]
+DTSTART;VALUE=DATE:20250831
+DTSTAMP:20250911T182400Z
+UID:event-assignment-861179
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=08&year=2025#assignment_861179
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab #1: Oracle Data Modeler [95736-A1]
+DTSTART;VALUE=DATE:20250902
+DTSTAMP:20250826T000000Z
+UID:event-assignment-885357
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Lab #1 Requirements:\n\n[Lab1 - Oracle Data Modeler.pdf] (http
+ s://canvas.cmu.edu/courses/49494/files/13097109?wrap=1)\n\nSupport File(s)
+ :\n\n[Oracle Sql Developer Data Modeler Users Guide.pdf] (https://canvas.c
+ mu.edu/courses/49494/files/13097102?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4949
+ 4&month=09&year=2025#assignment_885357
+X-ALT-DESC;FMTTYPE=text/html:<p>Lab #1 Requirements:</p>\n<p><a id="130971
+ 09" class="instructure_file_link instructure_scribd_file inline_disabled" 
+ title="Link" href="https://canvas.cmu.edu/courses/49494/files/13097109?wra
+ p=1" target="_blank" data-canvas-previewable="true" data-api-endpoint="htt
+ ps://canvas.cmu.edu/api/v1/courses/49494/files/13097109" data-api-returnty
+ pe="File">Lab1 - Oracle Data Modeler.pdf</a></p>\n<p>Support File(s):</p>\
+ n<p><a id="13097102" class="instructure_file_link instructure_scribd_file 
+ inline_disabled" title="Link" href="https://canvas.cmu.edu/courses/49494/f
+ iles/13097102?wrap=1" target="_blank" data-canvas-previewable="true" data-
+ api-endpoint="https://canvas.cmu.edu/api/v1/courses/49494/files/13097102" 
+ data-api-returntype="File">Oracle Sql Developer Data Modeler Users Guide.p
+ df</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab3 (95712-A) [95712]
+DTSTART:20250904T193000Z
+DTEND:20250904T193000Z
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-91480
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab3.pdf] (https://canvas.cmu.edu/courses/48631/files/1298389
+ 7?wrap=1)\n\n[IOStuff.java] (https://canvas.cmu.edu/courses/48631/files/12
+ 983828?wrap=1) \n\n[employee.csv] (https://canvas.cmu.edu/courses/48631/f
+ iles/12983738?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861160
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9885561" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983897?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983897" data-api-returntype="File">Lab3.pdf</a></p>\n<p
+ ><a class="instructure_file_link instructure_scribd_file inline_disabled" 
+ title="IOStuff.java" href="https://canvas.cmu.edu/courses/48631/files/1298
+ 3828?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endp
+ oint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983828" data-api
+ -returntype="File">IOStuff.java</a>&nbsp\;</p>\n<p><a id="9885573" class="
+ instructure_file_link inline_disabled" title="Link" href="https://canvas.c
+ mu.edu/courses/48631/files/12983738?wrap=1" target="_blank" data-api-endpo
+ int="https://canvas.cmu.edu/api/v1/courses/48631/files/12983738" data-api-
+ returntype="File">employee.csv</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab3 (95712-D) [95712]
+DTSTART:20250904T210000Z
+DTEND:20250904T210000Z
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-91479
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab3.pdf] (https://canvas.cmu.edu/courses/48631/files/1298389
+ 7?wrap=1)\n\n[IOStuff.java] (https://canvas.cmu.edu/courses/48631/files/12
+ 983828?wrap=1) \n\n[employee.csv] (https://canvas.cmu.edu/courses/48631/f
+ iles/12983738?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861160
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9885561" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983897?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983897" data-api-returntype="File">Lab3.pdf</a></p>\n<p
+ ><a class="instructure_file_link instructure_scribd_file inline_disabled" 
+ title="IOStuff.java" href="https://canvas.cmu.edu/courses/48631/files/1298
+ 3828?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endp
+ oint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983828" data-api
+ -returntype="File">IOStuff.java</a>&nbsp\;</p>\n<p><a id="9885573" class="
+ instructure_file_link inline_disabled" title="Link" href="https://canvas.c
+ mu.edu/courses/48631/files/12983738?wrap=1" target="_blank" data-api-endpo
+ int="https://canvas.cmu.edu/api/v1/courses/48631/files/12983738" data-api-
+ returntype="File">employee.csv</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 2 [95712]
+DTSTART;VALUE=DATE:20250905
+DTSTAMP:20250911T191400Z
+UID:event-assignment-861165
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861165
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 4 (95712-A) [95712]
+DTSTART:20250906T193000Z
+DTEND:20250906T193000Z
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-91482
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab4.pdf] (https://canvas.cmu.edu/courses/48631/files/1298374
+ 1?wrap=1)\n\n[Palindromer.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983779?wrap=1)\n\n[testPalindrome.java] (https://canvas.cmu.edu/course
+ s/48631/files/12983847?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861153
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9943434" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983741?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983741" data-api-returntype="File">Lab4.pdf</a></p>\n<p
+ ><a id="9844286" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983779?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983779" data-api-returntype="File">Palindromer.java</a></p>\n<p><a 
+ id="9844442" class="instructure_file_link inline_disabled" title="Link" hr
+ ef="https://canvas.cmu.edu/courses/48631/files/12983847?wrap=1" target="_b
+ lank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files
+ /12983847" data-api-returntype="File">testPalindrome.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 4 (95712-D) [95712]
+DTSTART:20250906T210000Z
+DTEND:20250906T210000Z
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-91481
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab4.pdf] (https://canvas.cmu.edu/courses/48631/files/1298374
+ 1?wrap=1)\n\n[Palindromer.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983779?wrap=1)\n\n[testPalindrome.java] (https://canvas.cmu.edu/course
+ s/48631/files/12983847?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861153
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9943434" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983741?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983741" data-api-returntype="File">Lab4.pdf</a></p>\n<p
+ ><a id="9844286" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983779?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983779" data-api-returntype="File">Palindromer.java</a></p>\n<p><a 
+ id="9844442" class="instructure_file_link inline_disabled" title="Link" hr
+ ef="https://canvas.cmu.edu/courses/48631/files/12983847?wrap=1" target="_b
+ lank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files
+ /12983847" data-api-returntype="File">testPalindrome.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-91491
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T190500Z
+UID:event-assignment-override-91492
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab2.pdf] (https://canvas.cmu.edu/courses/48631/files/1298392
+ 9?wrap=1)\n\n[StringStuff.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983777?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861148
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9882982" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983929?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983929" data-api-returntype="File">Lab2.pdf</a></p>\n<p
+ ><a id="9844290" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983777?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983777" data-api-returntype="File">StringStuff.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T191000Z
+UID:event-assignment-override-91490
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861162
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T182400Z
+UID:event-assignment-override-91488
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861179
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T182400Z
+UID:event-assignment-override-91570
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861179
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T190100Z
+UID:event-assignment-override-91489
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861181
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250906
+DTSTAMP:20250911T190100Z
+UID:event-assignment-override-91571
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861181
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 4 (1 student) [95712]
+DTSTART;VALUE=DATE:20250907
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-91887
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab4.pdf] (https://canvas.cmu.edu/courses/48631/files/1298374
+ 1?wrap=1)\n\n[Palindromer.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983779?wrap=1)\n\n[testPalindrome.java] (https://canvas.cmu.edu/course
+ s/48631/files/12983847?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861153
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9943434" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983741?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983741" data-api-returntype="File">Lab4.pdf</a></p>\n<p
+ ><a id="9844286" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983779?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983779" data-api-returntype="File">Palindromer.java</a></p>\n<p><a 
+ id="9844442" class="instructure_file_link inline_disabled" title="Link" hr
+ ef="https://canvas.cmu.edu/courses/48631/files/12983847?wrap=1" target="_b
+ lank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files
+ /12983847" data-api-returntype="File">testPalindrome.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 4 (1 student) [95712]
+DTSTART;VALUE=DATE:20250907
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-91888
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab4.pdf] (https://canvas.cmu.edu/courses/48631/files/1298374
+ 1?wrap=1)\n\n[Palindromer.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983779?wrap=1)\n\n[testPalindrome.java] (https://canvas.cmu.edu/course
+ s/48631/files/12983847?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861153
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9943434" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983741?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983741" data-api-returntype="File">Lab4.pdf</a></p>\n<p
+ ><a id="9844286" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983779?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983779" data-api-returntype="File">Palindromer.java</a></p>\n<p><a 
+ id="9844442" class="instructure_file_link inline_disabled" title="Link" hr
+ ef="https://canvas.cmu.edu/courses/48631/files/12983847?wrap=1" target="_b
+ lank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files
+ /12983847" data-api-returntype="File">testPalindrome.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 3.1 [95712]
+DTSTART;VALUE=DATE:20250907
+DTSTAMP:20250911T190100Z
+UID:event-assignment-861180
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861180
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 3.2 [95712]
+DTSTART;VALUE=DATE:20250907
+DTSTAMP:20250911T190200Z
+UID:event-assignment-861182
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861182
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1: Raft [95702]
+DTSTART:20250908T180000Z
+DTEND:20250908T180000Z
+DTSTAMP:20250827T180000Z
+UID:event-assignment-861086
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861086
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 2: Interesting Picture (95702-B) [95702]
+DTSTART:20250908T180000Z
+DTEND:20250908T180000Z
+DTSTAMP:20250903T193000Z
+UID:event-assignment-override-91639
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:https://github.com/CMU-Heinz-95702/Lab2-InterestingPicture
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861087
+X-ALT-DESC;FMTTYPE=text/html:<p>https://github.com/CMU-Heinz-95702/Lab2-In
+ terestingPicture</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 3 - Server Side Programming Pre-Class Quiz [95702]
+DTSTART:20250908T180000Z
+DTEND:20250908T180000Z
+DTSTAMP:20250905T180000Z
+UID:event-assignment-861124
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861124
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homework #1: Oracle Data Modeler [95736-A1]
+DTSTART:20250908T223000Z
+DTEND:20250908T223000Z
+DTSTAMP:20250906T200500Z
+UID:event-assignment-885365
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Assignment Requirements:\n\n[HW1 Oracle DataModeler F25.pdf] (
+ https://canvas.cmu.edu/courses/49494/files/13114816?wrap=1)\n\nCase Descri
+ ption:\n\nRead the following case study\, which describes the data require
+ ments for a DVD rental company. The DVD rental company has several branche
+ s throughout the United States. The data held on each branch is the branch
+  address made up of street\, city\, state\, and zip code\, and the telepho
+ ne number. Each branch is given a branch number\, which is unique througho
+ ut the company. Each branch is allocated staff\, which includes a Manager.
+  The Manager is responsible for the day-to-day running of a given branch. 
+ The data held on a member of staff is his or her name\, position\, and sal
+ ary. Each member of staff is given a staff number\, which is unique throug
+ hout the company. Each branch has a stock of DVDs. The data held on a DVD 
+ is the catalog number\, DVD number\, title\, category\, daily rental\, cos
+ t\, status\, and the names of the main actors and the director. The catalo
+ g number uniquely identifies each DVD. However\, in most cases\, there are
+  several copies of each DVD at a branch\, and the individual copies are id
+ entified using the DVD number. A DVD is given a category such as Action\, 
+ Adult\, Children\, Drama\, Horror\, or Sci-Fi. The status indicates whethe
+ r a specific copy of a DVD is available for rent. Before borrowing a DVD f
+ rom the company\, a customer must first register as a member of a local br
+ anch. The data held on a member is the first and last name\, address\, and
+  the date that the member registered at a branch. Each member is given a m
+ ember number\, which is unique throughout all branches of the company.  O
+ nce requested\, a member is free to rent DVDs\, up to a maximum of ten at 
+ any one time. The data held on each DVD rented is the rental number\, the 
+ full name and number of the member\, the DVD number\, title\, and daily re
+ ntal\, and the dates the DVD is rented out and returned. The DVD number is
+  unique throughout the company.\n\n(a) identify the main entity types of t
+ he DVD rental company\n(b) identify the main relationship types between th
+ e entity types described in part (a) and represent each relationship as an
+  ERD diagram\n(c) determine the multiplicity constraints for each relation
+ ship described in part (b). Represent the multiplicity for each relationsh
+ ip in the ER diagrams created in part (b)\n(d) identify attributes and ass
+ ociate them with entity or relationship types. Represent each attribute in
+  the ER diagram created in (c).\n(e) determine candidate and primary key a
+ ttributes for each entity type.\n(f) Using your answers to parts (a) to (e
+ ) attempt to represent the data requirements of the DVD rental company usi
+ ng a single ER diagram. State any assumptions necessary to support your de
+ sign.
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4949
+ 4&month=09&year=2025#assignment_885365
+X-ALT-DESC;FMTTYPE=text/html:<p>Assignment Requirements:</p>\n<p><a id="13
+ 114816" class="instructure_file_link instructure_scribd_file inline_disabl
+ ed" title="Link" href="https://canvas.cmu.edu/courses/49494/files/13114816
+ ?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint=
+ "https://canvas.cmu.edu/api/v1/courses/49494/files/13114816" data-api-retu
+ rntype="File">HW1 Oracle DataModeler F25.pdf</a></p>\n<p>Case Description:
+ </p>\n<p><span class="Apple-style-span" style="font-family: arial\,sans-se
+ rif\; font-size: 13px\; background-color: #ffffff\;">Read the following ca
+ se study\, which describes the data requirements for a DVD rental company.
+  The DVD rental company has several branches throughout the United States.
+  The data held on each branch is the branch address made up of street\, ci
+ ty\, state\, and zip code\, and the telephone number. Each branch is given
+  a branch number\, which is unique throughout the company. Each branch is 
+ allocated staff\, which includes a Manager. The Manager is responsible for
+  the day-to-day running of a given branch. The data held on a member of st
+ aff is his or her name\, position\, and salary. Each member of staff is gi
+ ven a staff number\, which is unique throughout the company. Each branch h
+ as a stock of <span>DVDs</span>. The data held on a DVD is the catalog num
+ ber\, DVD number\, title\, category\, daily rental\, cost\, status\, and t
+ he names of the main actors and the director. The catalog number uniquely 
+ identifies each DVD. However\, in most cases\, there are several copies of
+  each DVD at a branch\, and the individual copies are identified using the
+  DVD number. A DVD is given a category such as Action\, Adult\, Children\,
+  Drama\, Horror\, or Sci-<span>Fi</span>. The status indicates whether a s
+ pecific copy of a DVD is available for rent. Before borrowing a DVD from t
+ he company\, a customer must first register as a member of a local branch.
+  The data held on a member is the first and last name\, address\, and the 
+ date that the member registered at a branch. Each member is given a member
+  number\, which is unique throughout all branches of the company.&nbsp\; O
+ nce <span>requested</span>\, a member is free to rent <span>DVDs</span>\, 
+ up to a maximum of ten at any one time. The data held on each DVD rented i
+ s the rental number\, the full name and number of the member\, the DVD num
+ ber\, title\, and daily rental\, and the dates the DVD is rented out and r
+ eturned. The DVD number is unique throughout the company.</span> <br style
+ ="font-family: arial\,sans-serif\; font-size: 13px\; background-color: #ff
+ ffff\;"><br style="font-family: arial\,sans-serif\; font-size: 13px\; back
+ ground-color: #ffffff\;"><span class="Apple-style-span" style="font-family
+ : arial\,sans-serif\; font-size: 13px\; background-color: #ffffff\;">(a) i
+ dentify the main entity types of the DVD rental company</span> <br style="
+ font-family: arial\,sans-serif\; font-size: 13px\; background-color: #ffff
+ ff\;"><span class="Apple-style-span" style="font-family: arial\,sans-serif
+ \; font-size: 13px\; background-color: #ffffff\;">(b) identify the main re
+ lationship types between the entity types described in part (a) and repres
+ ent each relationship as an ERD diagram</span> <br style="font-family: ari
+ al\,sans-serif\; font-size: 13px\; background-color: #ffffff\;"><span clas
+ s="Apple-style-span" style="font-family: arial\,sans-serif\; font-size: 13
+ px\; background-color: #ffffff\;">(c) determine the multiplicity constrain
+ ts for each relationship described in part (b). Represent the multiplicity
+  for each relationship in the ER diagrams created in part (b)</span> <br s
+ tyle="font-family: arial\,sans-serif\; font-size: 13px\; background-color:
+  #ffffff\;"><span class="Apple-style-span" style="font-family: arial\,sans
+ -serif\; font-size: 13px\; background-color: #ffffff\;">(d) identify attri
+ butes and associate them with entity or relationship types. Represent each
+  attribute in the ER diagram created in (c).</span> <br style="font-family
+ : arial\,sans-serif\; font-size: 13px\; background-color: #ffffff\;"><span
+  class="Apple-style-span" style="font-family: arial\,sans-serif\; font-siz
+ e: 13px\; background-color: #ffffff\;">(e) determine candidate and primary
+  key attributes for each entity type.</span> <br style="font-family: arial
+ \,sans-serif\; font-size: 13px\; background-color: #ffffff\;"><span class=
+ "Apple-style-span" style="font-family: arial\,sans-serif\; font-size: 13px
+ \; background-color: #ffffff\;">(f) Using your answers to parts (a) to (e)
+  attempt to represent the data requirements of the DVD rental company usin
+ g a single ER diagram. State any assumptions necessary to support your des
+ ign.</span></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250908
+DTSTAMP:20250911T191000Z
+UID:event-assignment-override-91889
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861162
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250908
+DTSTAMP:20250911T191400Z
+UID:event-assignment-override-92017
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861165
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab #2: Structured Query Language (SQL) [95736-A1]
+DTSTART;VALUE=DATE:20250909
+DTSTAMP:20250909T002200Z
+UID:event-assignment-885359
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Lab Requirements:\n\n[Lab2 Advanced SQL Submission Guidelines-
+  F25.pdf] (https://canvas.cmu.edu/courses/49494/files/13164816?wrap=1)\n\n
+ Support Files:\n\n[Clearwater.sql] (https://canvas.cmu.edu/courses/49494/f
+ iles/13164822?wrap=1)\n\n[clearwater_tables.lis] (https://canvas.cmu.edu/c
+ ourses/49494/files/13164823?wrap=1)\n\n[Clearwaters Database.pdf] (https:/
+ /canvas.cmu.edu/courses/49494/files/13164824?wrap=1)\n\n[DreamHome_Tables.
+ sql] (https://canvas.cmu.edu/courses/49494/files/13164825?wrap=1)\n\n[sala
+ ry_range.sql] (https://canvas.cmu.edu/courses/49494/files/13164826?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4949
+ 4&month=09&year=2025#assignment_885359
+X-ALT-DESC;FMTTYPE=text/html:<p>Lab Requirements:</p>\n<p><a id="13164816"
+  class="instructure_file_link instructure_scribd_file inline_disabled" tit
+ le="Link" href="https://canvas.cmu.edu/courses/49494/files/13164816?wrap=1
+ " target="_blank" data-canvas-previewable="true" data-api-endpoint="https:
+ //canvas.cmu.edu/api/v1/courses/49494/files/13164816" data-api-returntype=
+ "File">Lab2 Advanced SQL Submission Guidelines- F25.pdf</a></p>\n<p>Suppor
+ t Files:</p>\n<p><a id="13164822" class="instructure_file_link inline_disa
+ bled" title="Link" href="https://canvas.cmu.edu/courses/49494/files/131648
+ 22?wrap=1" target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v
+ 1/courses/49494/files/13164822" data-api-returntype="File">Clearwater.sql<
+ /a></p>\n<p><a id="13164823" class="instructure_file_link inline_disabled"
+  title="Link" href="https://canvas.cmu.edu/courses/49494/files/13164823?wr
+ ap=1" target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/49494/files/13164823" data-api-returntype="File">clearwater_tables.li
+ s</a></p>\n<p><a id="13164824" class="instructure_file_link instructure_sc
+ ribd_file inline_disabled" title="Link" href="https://canvas.cmu.edu/cours
+ es/49494/files/13164824?wrap=1" target="_blank" data-canvas-previewable="t
+ rue" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/49494/files/
+ 13164824" data-api-returntype="File">Clearwaters Database.pdf</a></p>\n<p>
+ <a id="13164825" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/49494/files/13164825?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/49494/f
+ iles/13164825" data-api-returntype="File">DreamHome_Tables.sql</a></p>\n<p
+ ><a id="13164826" class="instructure_file_link inline_disabled" title="Lin
+ k" href="https://canvas.cmu.edu/courses/49494/files/13164826?wrap=1" targe
+ t="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/49494/
+ files/13164826" data-api-returntype="File">salary_range.sql</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 5 (95712-D) [95712]
+DTSTART;VALUE=DATE:20250911
+DTSTAMP:20250911T190900Z
+UID:event-assignment-override-92107
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab5.pdf] (https://canvas.cmu.edu/courses/48631/files/1298387
+ 0?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861154
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9966299" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983870?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983870" data-api-returntype="File">lab5.pdf</a></p>\n<p
+ >&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 5 (95712-A) [95712]
+DTSTART;VALUE=DATE:20250911
+DTSTAMP:20250911T190900Z
+UID:event-assignment-override-92108
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab5.pdf] (https://canvas.cmu.edu/courses/48631/files/1298387
+ 0?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861154
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9966299" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983870?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983870" data-api-returntype="File">lab5.pdf</a></p>\n<p
+ >&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250911
+DTSTAMP:20250911T191400Z
+UID:event-assignment-override-92312
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861165
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250911
+DTSTAMP:20250911T191400Z
+UID:event-assignment-override-92328
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861165
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 3 [95712]
+DTSTART;VALUE=DATE:20250912
+DTSTAMP:20250911T230000Z
+UID:event-assignment-861166
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861166
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 6 (95712-D) [95712]
+DTSTART;VALUE=DATE:20250913
+DTSTAMP:20250911T214000Z
+UID:event-assignment-override-92109
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab6.pdf] (https://canvas.cmu.edu/courses/48631/files/1319677
+ 2?wrap=1)\n\n[paPop.csv] (https://canvas.cmu.edu/courses/48631/files/12983
+ 791?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861155
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9996164" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/13196772?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/13196772" data-api-returntype="File">lab6.pdf</a></p>\n<p
+ ><a id="9844311" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983791?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983791" data-api-returntype="File">paPop.csv</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 6 (95712-A) [95712]
+DTSTART;VALUE=DATE:20250913
+DTSTAMP:20250911T214000Z
+UID:event-assignment-override-92110
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab6.pdf] (https://canvas.cmu.edu/courses/48631/files/1319677
+ 2?wrap=1)\n\n[paPop.csv] (https://canvas.cmu.edu/courses/48631/files/12983
+ 791?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861155
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9996164" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/13196772?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/13196772" data-api-returntype="File">lab6.pdf</a></p>\n<p
+ ><a id="9844311" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983791?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983791" data-api-returntype="File">paPop.csv</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 4.1 [95712]
+DTSTART;VALUE=DATE:20250914
+DTSTAMP:20250912T180000Z
+UID:event-assignment-861183
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861183
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 4.2 [95712]
+DTSTART;VALUE=DATE:20250914
+DTSTAMP:20250912T180000Z
+UID:event-assignment-861184
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861184
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 3: Containers and Cloud Deployment (95702-B) [95702]
+DTSTART:20250915T180000Z
+DTEND:20250915T180000Z
+DTSTAMP:20250910T193000Z
+UID:event-assignment-override-92227
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:https://github.com/CMU-Heinz-95702/Lab-3-Cloud-Interesting-Pic
+ ture\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861088
+X-ALT-DESC;FMTTYPE=text/html:<p><a href="https://github.com/CMU-Heinz-9570
+ 2/Lab-3-Cloud-Interesting-Picture" target="_blank">https://github.com/CMU-
+ Heinz-95702/Lab-3-Cloud-Interesting-Picture</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Week 4 - Networking Pre-Class Quiz [95702]
+DTSTART:20250915T180000Z
+DTEND:20250915T180000Z
+DTSTAMP:20250912T180000Z
+UID:event-assignment-861125
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861125
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homework #2: Advanced SQL [95736-A1]
+DTSTART:20250915T223000Z
+DTEND:20250915T223000Z
+DTSTAMP:20250909T140400Z
+UID:event-assignment-885369
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Assignment Requirements:\n\n[Homework_2_Advanced_SQL_F25.pdf] 
+ (https://canvas.cmu.edu/courses/49494/files/13177033?wrap=1)\n\nSupport Fi
+ les:\n\n[DreamHome_Tables.sql] (https://canvas.cmu.edu/courses/49494/files
+ /13177047?wrap=1)\n\n[Clearwater.sql] (https://canvas.cmu.edu/courses/4949
+ 4/files/13177046?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4949
+ 4&month=09&year=2025#assignment_885369
+X-ALT-DESC;FMTTYPE=text/html:<p>Assignment Requirements:</p>\n<p><a id="13
+ 177033" class="instructure_file_link instructure_scribd_file inline_disabl
+ ed" title="Link" href="https://canvas.cmu.edu/courses/49494/files/13177033
+ ?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoint=
+ "https://canvas.cmu.edu/api/v1/courses/49494/files/13177033" data-api-retu
+ rntype="File">Homework_2_Advanced_SQL_F25.pdf</a></p>\n<p>Support Files:</
+ p>\n<p><a id="13177047" class="instructure_file_link inline_disabled" titl
+ e="Link" href="https://canvas.cmu.edu/courses/49494/files/13177047?wrap=1"
+  target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/
+ 49494/files/13177047" data-api-returntype="File">DreamHome_Tables.sql</a><
+ /p>\n<p><a id="13177046" class="instructure_file_link inline_disabled" tit
+ le="Link" href="https://canvas.cmu.edu/courses/49494/files/13177046?wrap=1
+ " target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses
+ /49494/files/13177046" data-api-returntype="File">Clearwater.sql</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250916
+DTSTAMP:20250911T191000Z
+UID:event-assignment-override-92319
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861162
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250918
+DTSTAMP:20250911T191400Z
+UID:event-assignment-override-92320
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861165
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 4 [95712]
+DTSTART;VALUE=DATE:20250919
+DTSTAMP:20250910T154400Z
+UID:event-assignment-891729
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_891729
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 7 [95712]
+DTSTART:20250920T133000Z
+DTEND:20250920T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861156
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab7.pdf] (https://canvas.cmu.edu/courses/48631/files/1298373
+ 1?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861156
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="10016087" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983731?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983731" data-api-returntype="File">Lab7.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Quiz 5.1 [95712]
+DTSTART;VALUE=DATE:20250921
+DTSTAMP:20250828T165600Z
+UID:event-assignment-861173
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861173
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 4: HTTP Server [95702]
+DTSTART:20250922T180000Z
+DTEND:20250922T180000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861089
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project 1 [95702]
+DTSTART:20250922T180000Z
+DTEND:20250922T180000Z
+DTSTAMP:20250908T180000Z
+UID:event-assignment-861110
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Project 1 on github ] (https://github.com/CMU-Heinz-95702/Pr
+ oject-1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=09&year=2025#assignment_861110
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="inline_disabled" href="https://g
+ ithub.com/CMU-Heinz-95702/Project-1" target="_blank">Project 1 on github&n
+ bsp\;</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190400Z
+UID:event-assignment-override-92322
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab1.pdf] (https://canvas.cmu.edu/courses/48631/files/1298393
+ 0?wrap=1)\n\n[RelativeHumidity.java] (https://canvas.cmu.edu/courses/48631
+ /files/12983776?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861139
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12983930" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983930?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983930" data-api-returntype="File">Lab1.pdf</a></p>\n<
+ p><a id="12983776" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983776?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983776" data-api-returntype="File">RelativeHumidity.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190500Z
+UID:event-assignment-override-92323
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab2.pdf] (https://canvas.cmu.edu/courses/48631/files/1298392
+ 9?wrap=1)\n\n[StringStuff.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983777?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861148
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9882982" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983929?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983929" data-api-returntype="File">Lab2.pdf</a></p>\n<p
+ ><a id="9844290" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983777?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983777" data-api-returntype="File">StringStuff.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 4 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-92325
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab4.pdf] (https://canvas.cmu.edu/courses/48631/files/1298374
+ 1?wrap=1)\n\n[Palindromer.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983779?wrap=1)\n\n[testPalindrome.java] (https://canvas.cmu.edu/course
+ s/48631/files/12983847?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861153
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9943434" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983741?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983741" data-api-returntype="File">Lab4.pdf</a></p>\n<p
+ ><a id="9844286" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983779?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983779" data-api-returntype="File">Palindromer.java</a></p>\n<p><a 
+ id="9844442" class="instructure_file_link inline_disabled" title="Link" hr
+ ef="https://canvas.cmu.edu/courses/48631/files/12983847?wrap=1" target="_b
+ lank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files
+ /12983847" data-api-returntype="File">testPalindrome.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 5 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190900Z
+UID:event-assignment-override-92326
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab5.pdf] (https://canvas.cmu.edu/courses/48631/files/1298387
+ 0?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861154
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9966299" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983870?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983870" data-api-returntype="File">lab5.pdf</a></p>\n<p
+ >&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 6 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T214000Z
+UID:event-assignment-override-92327
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab6.pdf] (https://canvas.cmu.edu/courses/48631/files/1319677
+ 2?wrap=1)\n\n[paPop.csv] (https://canvas.cmu.edu/courses/48631/files/12983
+ 791?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861155
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9996164" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/13196772?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/13196772" data-api-returntype="File">lab6.pdf</a></p>\n<p
+ ><a id="9844311" class="instructure_file_link inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/48631/files/12983791?wrap=1" target
+ ="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983791" data-api-returntype="File">paPop.csv</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab3 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190800Z
+UID:event-assignment-override-92324
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab3.pdf] (https://canvas.cmu.edu/courses/48631/files/1298389
+ 7?wrap=1)\n\n[IOStuff.java] (https://canvas.cmu.edu/courses/48631/files/12
+ 983828?wrap=1) \n\n[employee.csv] (https://canvas.cmu.edu/courses/48631/f
+ iles/12983738?wrap=1)\n\n 
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861160
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="9885561" class="instructure_file_li
+ nk instructure_scribd_file inline_disabled" title="Link" href="https://can
+ vas.cmu.edu/courses/48631/files/12983897?wrap=1" target="_blank" data-canv
+ as-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cou
+ rses/48631/files/12983897" data-api-returntype="File">Lab3.pdf</a></p>\n<p
+ ><a class="instructure_file_link instructure_scribd_file inline_disabled" 
+ title="IOStuff.java" href="https://canvas.cmu.edu/courses/48631/files/1298
+ 3828?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endp
+ oint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983828" data-api
+ -returntype="File">IOStuff.java</a>&nbsp\;</p>\n<p><a id="9885573" class="
+ instructure_file_link inline_disabled" title="Link" href="https://canvas.c
+ mu.edu/courses/48631/files/12983738?wrap=1" target="_blank" data-api-endpo
+ int="https://canvas.cmu.edu/api/v1/courses/48631/files/12983738" data-api-
+ returntype="File">employee.csv</a></p>\n<p>&nbsp\;</p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 3 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T230000Z
+UID:event-assignment-override-92321
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861166
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T182400Z
+UID:event-assignment-override-92313
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861179
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 2.2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190100Z
+UID:event-assignment-override-92316
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861181
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 3.1 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190100Z
+UID:event-assignment-override-92317
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861180
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 3.2 (1 student) [95712]
+DTSTART;VALUE=DATE:20250923
+DTSTAMP:20250911T190200Z
+UID:event-assignment-override-92318
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861182
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midterm 1- Requires Respondus LockDown Browser [95712]
+DTSTART:20250925T145000Z
+DTEND:20250925T145000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861133
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861133
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homework 1 [95712]
+DTSTART;VALUE=DATE:20250926
+DTSTAMP:20250911T193000Z
+UID:event-assignment-861136
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Homework 1.pdf] (https://canvas.cmu.edu/courses/48631/files/1
+ 3195882?wrap=1)\n\n[citations.csv] (https://canvas.cmu.edu/courses/48631/f
+ iles/13195884?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861136
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="13195882" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/13195882?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/13195882" data-api-returntype="File">Homework 1.pdf</a><
+ /p>\n<p><a id="13195884" class="instructure_file_link inline_disabled" tit
+ le="Link" href="https://canvas.cmu.edu/courses/48631/files/13195884?wrap=1
+ " target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses
+ /48631/files/13195884" data-api-returntype="File">citations.csv</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Quiz 6.2 [95712]
+DTSTART;VALUE=DATE:20250929
+DTSTAMP:20250828T183000Z
+UID:event-assignment-861174
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861174
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 8 [95712]
+DTSTART:20250930T133000Z
+DTEND:20250930T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861157
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Because of the exam this week\, the lab is not due until Sep 2
+ 9\, 2023\, 11:00 AM\n\n[Lab8.pdf] (https://canvas.cmu.edu/courses/48631/fi
+ les/12983739?wrap=1)\n\n[MakeANote.java] (https://canvas.cmu.edu/courses/4
+ 8631/files/12983740?wrap=1)\n\n[Note.java] (https://canvas.cmu.edu/courses
+ /48631/files/12983987?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=09&year=2025#assignment_861157
+X-ALT-DESC;FMTTYPE=text/html:<p>Because of the exam this week\, the lab is
+  not due until Sep 29\, 2023\, 11:00 AM</p>\n<p><a id="10016962" class="in
+ structure_file_link instructure_scribd_file inline_disabled" title="Link" 
+ href="https://canvas.cmu.edu/courses/48631/files/12983739?wrap=1" target="
+ _blank" data-canvas-previewable="true" data-api-endpoint="https://canvas.c
+ mu.edu/api/v1/courses/48631/files/12983739" data-api-returntype="File">Lab
+ 8.pdf</a></p>\n<p><a id="10016963" class="instructure_file_link inline_dis
+ abled" title="Link" href="https://canvas.cmu.edu/courses/48631/files/12983
+ 740?wrap=1" target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/
+ v1/courses/48631/files/12983740" data-api-returntype="File">MakeANote.java
+ </a></p>\n<p><a id="10016964" class="instructure_file_link inline_disabled
+ " title="Link" href="https://canvas.cmu.edu/courses/48631/files/12983987?w
+ rap=1" target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983987" data-api-returntype="File">Note.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab9 [95712]
+DTSTART:20251002T133000Z
+DTEND:20251002T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861161
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab9.pdf] (https://canvas.cmu.edu/courses/48631/files/1298391
+ 8?wrap=1)\n\n[Lab9Main.java] (https://canvas.cmu.edu/courses/48631/files/1
+ 2983899?wrap=1)\n\n[DataSnooper.java] (https://canvas.cmu.edu/courses/4863
+ 1/files/12983750?wrap=1)\n\n[Data.java] (https://canvas.cmu.edu/courses/48
+ 631/files/12983751?wrap=1)\n\n[ContainedClass.java] (https://canvas.cmu.ed
+ u/courses/48631/files/12983898?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861161
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="10093033" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983918?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983918" data-api-returntype="File">Lab9.pdf</a></p>\n<
+ p><a id="10093034" class="instructure_file_link inline_disabled" title="Li
+ nk" href="https://canvas.cmu.edu/courses/48631/files/12983899?wrap=1" targ
+ et="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631
+ /files/12983899" data-api-returntype="File">Lab9Main.java</a></p>\n<p><a i
+ d="10093032" class="instructure_file_link inline_disabled" title="Link" hr
+ ef="https://canvas.cmu.edu/courses/48631/files/12983750?wrap=1" target="_b
+ lank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files
+ /12983750" data-api-returntype="File">DataSnooper.java</a></p>\n<p><a id="
+ 10093031" class="instructure_file_link inline_disabled" title="Link" href=
+ "https://canvas.cmu.edu/courses/48631/files/12983751?wrap=1" target="_blan
+ k" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12
+ 983751" data-api-returntype="File">Data.java</a></p>\n<p><a id="10093029" 
+ class="instructure_file_link inline_disabled" title="Link" href="https://c
+ anvas.cmu.edu/courses/48631/files/12983898?wrap=1" target="_blank" data-ap
+ i-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983898" da
+ ta-api-returntype="File">ContainedClass.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 10 [95712]
+DTSTART:20251004T133000Z
+DTEND:20251004T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861140
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab10.pdf] (https://canvas.cmu.edu/courses/48631/files/129838
+ 89?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861140
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="10110736" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983889?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983889" data-api-returntype="File">Lab10.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 5 [95712]
+DTSTART;VALUE=DATE:20251004
+DTSTAMP:20250910T153600Z
+UID:event-assignment-861168
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861168
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self Quiz 7.1 [95712]
+DTSTART;VALUE=DATE:20251005
+DTSTAMP:20250828T183700Z
+UID:event-assignment-861175
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861175
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 7.2 [95712]
+DTSTART;VALUE=DATE:20251005
+DTSTAMP:20250828T155400Z
+UID:event-assignment-861185
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861185
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 5: Cryptography [95702]
+DTSTART:20251006T180000Z
+DTEND:20251006T180000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861090
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=10&year=2025#assignment_861090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 7.3 [95712]
+DTSTART;VALUE=DATE:20251006
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861186
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861186
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Group Project [95736-A1]
+DTSTART:20251010T223000Z
+DTEND:20251010T223000Z
+DTSTAMP:20250909T145200Z
+UID:event-assignment-885439
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:Project (Team) Assignment:\n\n[Group Project Team Assignments 
+ F25.pdf] (https://canvas.cmu.edu/courses/49494/files/13177462?wrap=1)\n\nP
+ roject Requirements:\n\n[F25 Project Assignment Eggshell.pdf] (https://can
+ vas.cmu.edu/courses/49494/files/13167297?wrap=1)\n\nPeer Evaluation Form:\
+ n\n[Peer Review Form F25.pdf] (https://canvas.cmu.edu/courses/49494/files/
+ 13167298?wrap=1)\n\nGrading Rubric:\n\n[Group Project Grade Sheet F25.pdf]
+  (https://canvas.cmu.edu/courses/49494/files/13167299?wrap=1)\n\nEggshell 
+ Home Builders Case Description:\n\n[Eggshell_Home_Builder_Case.pdf] (https
+ ://canvas.cmu.edu/courses/49494/files/13167301?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4949
+ 4&month=10&year=2025#assignment_885439
+X-ALT-DESC;FMTTYPE=text/html:<p>Project (Team) Assignment:</p>\n<p><a id="
+ 13177462" class="instructure_file_link instructure_scribd_file inline_disa
+ bled" title="Link" href="https://canvas.cmu.edu/courses/49494/files/131774
+ 62?wrap=1" target="_blank" data-canvas-previewable="true" data-api-endpoin
+ t="https://canvas.cmu.edu/api/v1/courses/49494/files/13177462" data-api-re
+ turntype="File">Group Project Team Assignments F25.pdf</a></p>\n<p>Project
+  Requirements:</p>\n<p><a id="13167297" class="instructure_file_link instr
+ ucture_scribd_file inline_disabled" title="Link" href="https://canvas.cmu.
+ edu/courses/49494/files/13167297?wrap=1" target="_blank" data-canvas-previ
+ ewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/494
+ 94/files/13167297" data-api-returntype="File">F25 Project Assignment Eggsh
+ ell.pdf</a></p>\n<p>Peer Evaluation Form:</p>\n<p><a id="13167298" class="
+ instructure_file_link instructure_scribd_file inline_disabled" title="Link
+ " href="https://canvas.cmu.edu/courses/49494/files/13167298?wrap=1" target
+ ="_blank" data-canvas-previewable="true" data-api-endpoint="https://canvas
+ .cmu.edu/api/v1/courses/49494/files/13167298" data-api-returntype="File">P
+ eer Review Form F25.pdf</a></p>\n<p>Grading Rubric:</p>\n<p><a id="1316729
+ 9" class="instructure_file_link instructure_scribd_file inline_disabled" t
+ itle="Link" href="https://canvas.cmu.edu/courses/49494/files/13167299?wrap
+ =1" target="_blank" data-canvas-previewable="true" data-api-endpoint="http
+ s://canvas.cmu.edu/api/v1/courses/49494/files/13167299" data-api-returntyp
+ e="File">Group Project Grade Sheet F25.pdf</a></p>\n<p>Eggshell Home Build
+ ers Case Description:</p>\n<p><a id="13167301" class="instructure_file_lin
+ k instructure_scribd_file inline_disabled" title="Link" href="https://canv
+ as.cmu.edu/courses/49494/files/13167301?wrap=1" target="_blank" data-canva
+ s-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/cour
+ ses/49494/files/13167301" data-api-returntype="File">Eggshell_Home_Builder
+ _Case.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 6 [95712]
+DTSTART;VALUE=DATE:20251011
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861169
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861169
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 11 [95712]
+DTSTART:20251016T133000Z
+DTEND:20251016T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861141
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab11.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 60?wrap=1)\n\n[lab11.zip] (https://canvas.cmu.edu/courses/48631/files/1298
+ 3959?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861141
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="10142247" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983960?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983960" data-api-returntype="File">Lab11.pdf</a></p>\n
+ <p><a id="11720644" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983959?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983959" data-api-returntype="File">lab11.zip</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 12 [95712]
+DTSTART:20251016T133000Z
+DTEND:20251016T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861142
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab12.pdf] (https://canvas.cmu.edu/courses/48631/files/129837
+ 48?wrap=1)\n\n[BadWeekday.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983749?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861142
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructur
+ e_scribd_file inline_disabled" title="Lab12.pdf" href="https://canvas.cmu.
+ edu/courses/48631/files/12983748?wrap=1" target="_blank" data-canvas-previ
+ ewable="false" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48
+ 631/files/12983748" data-api-returntype="File">Lab12.pdf</a></p>\n<p><a cl
+ ass="instructure_file_link instructure_scribd_file inline_disabled" title=
+ "BadWeekday.java" href="https://canvas.cmu.edu/courses/48631/files/1298374
+ 9?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoin
+ t="https://canvas.cmu.edu/api/v1/courses/48631/files/12983749" data-api-re
+ turntype="File">BadWeekday.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 8.1 [95712]
+DTSTART;VALUE=DATE:20251019
+DTSTAMP:20250828T155800Z
+UID:event-assignment-861187
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861187
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 6: Java RMI Programming [95702]
+DTSTART:20251020T180000Z
+DTEND:20251020T180000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861093
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=10&year=2025#assignment_861093
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 13 [95712]
+DTSTART:20251023T133000Z
+DTEND:20251023T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861143
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab13.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 31?wrap=1)\n\n[Lab13Main.java] (https://canvas.cmu.edu/courses/48631/files
+ /12983932?wrap=1)\n\n[Movie.java] (https://canvas.cmu.edu/courses/48631/fi
+ les/12983879?wrap=1)\n\n[movies.tsv] (https://canvas.cmu.edu/courses/48631
+ /files/12983925?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861143
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11739127" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983931?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983931" data-api-returntype="File">Lab13.pdf</a></p>\n
+ <p><a id="11739135" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983932?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983932" data-api-returntype="File">Lab13Main.java</a></p>\n<p><a
+  id="10255704" class="instructure_file_link inline_disabled" title="Link" 
+ href="https://canvas.cmu.edu/courses/48631/files/12983879?wrap=1" target="
+ _blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/fil
+ es/12983879" data-api-returntype="File">Movie.java</a></p>\n<p><a id="1025
+ 5705" class="instructure_file_link inline_disabled" title="Link" href="htt
+ ps://canvas.cmu.edu/courses/48631/files/12983925?wrap=1" target="_blank" d
+ ata-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/129839
+ 25" data-api-returntype="File">movies.tsv</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 14 [95712]
+DTSTART:20251025T133000Z
+DTEND:20251025T133000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861144
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[lab14.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 65?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861144
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11739128" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983965?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983965" data-api-returntype="File">lab14.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 7 [95712]
+DTSTART;VALUE=DATE:20251025
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861170
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861170
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 7: REST Programming [95702]
+DTSTART:20251027T180000Z
+DTEND:20251027T180000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861095
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=10&year=2025#assignment_861095
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midterm 2- Requires Respondus LockDown Browser [95712]
+DTSTART:20251030T145000Z
+DTEND:20251030T145000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861131
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=10&year=2025#assignment_861131
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homework 2 [95712]
+DTSTART;VALUE=DATE:20251101
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861137
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Homework 2.pdf] (https://canvas.cmu.edu/courses/48631/files/1
+ 2983945?wrap=1)\n\n[hw2TestCases.java] (https://canvas.cmu.edu/courses/486
+ 31/files/12983946?wrap=1)\n\n[testAssets.csv] (https://canvas.cmu.edu/cour
+ ses/48631/files/12983955?wrap=1)\n\n[testUsers.csv] (https://canvas.cmu.ed
+ u/courses/48631/files/12983891?wrap=1)\n\n[users.csv] (https://canvas.cmu.
+ edu/courses/48631/files/12983947?wrap=1)\n\n[assets.csv] (https://canvas.c
+ mu.edu/courses/48631/files/12983892?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861137
+X-ALT-DESC;FMTTYPE=text/html:<p><a class="instructure_file_link instructur
+ e_scribd_file inline_disabled" title="Homework 2.pdf" href="https://canvas
+ .cmu.edu/courses/48631/files/12983945?wrap=1" target="_blank" data-canvas-
+ previewable="false" data-api-endpoint="https://canvas.cmu.edu/api/v1/cours
+ es/48631/files/12983945" data-api-returntype="File">Homework 2.pdf</a></p>
+ \n<p><a class="instructure_file_link instructure_scribd_file inline_disabl
+ ed" title="hw2TestCases.java" href="https://canvas.cmu.edu/courses/48631/f
+ iles/12983946?wrap=1" target="_blank" data-canvas-previewable="false" data
+ -api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983946"
+  data-api-returntype="File">hw2TestCases.java</a></p>\n<p><a id="11810671"
+  class="instructure_file_link inline_disabled" title="Link" href="https://
+ canvas.cmu.edu/courses/48631/files/12983955?wrap=1" target="_blank" data-a
+ pi-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983955" d
+ ata-api-returntype="File">testAssets.csv</a></p>\n<p><a class="instructure
+ _file_link instructure_scribd_file inline_disabled" title="testUsers.csv" 
+ href="https://canvas.cmu.edu/courses/48631/files/12983891?wrap=1" target="
+ _blank" data-canvas-previewable="false" data-api-endpoint="https://canvas.
+ cmu.edu/api/v1/courses/48631/files/12983891" data-api-returntype="File">te
+ stUsers.csv</a></p>\n<p><a id="11647050" class="instructure_file_link inli
+ ne_disabled" title="Link" href="https://canvas.cmu.edu/courses/48631/files
+ /12983947?wrap=1" target="_blank" data-api-endpoint="https://canvas.cmu.ed
+ u/api/v1/courses/48631/files/12983947" data-api-returntype="File">users.cs
+ v</a></p>\n<p><a class="instructure_file_link instructure_scribd_file inli
+ ne_disabled" title="assets.csv" href="https://canvas.cmu.edu/courses/48631
+ /files/12983892?wrap=1" target="_blank" data-canvas-previewable="false" da
+ ta-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/1298389
+ 2" data-api-returntype="File">assets.csv</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 10.1 [95712]
+DTSTART;VALUE=DATE:20251102
+DTSTAMP:20250828T155600Z
+UID:event-assignment-861176
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861176
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 8: Android Lab [95702]
+DTSTART:20251103T190000Z
+DTEND:20251103T190000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861096
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=11&year=2025#assignment_861096
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 15 [95712]
+DTSTART:20251104T143000Z
+DTEND:20251104T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861145
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab15.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 33?wrap=1)\n\n[Lab15.java] (https://canvas.cmu.edu/courses/48631/files/129
+ 83968?wrap=1)\n\n[Customer.java] (https://canvas.cmu.edu/courses/48631/fil
+ es/12983734?wrap=1)\n\n[customers.csv] (https://canvas.cmu.edu/courses/486
+ 31/files/12983733?wrap=1)\n\n[RatingType.java] (https://canvas.cmu.edu/cou
+ rses/48631/files/12983866?wrap=1)\n\n[] (https://canvas.cmu.edu/courses/48
+ 631/files/12983866?wrap=1)[testdata.txt] (https://canvas.cmu.edu/courses/4
+ 8631/files/12983867?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861145
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11739265" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983933?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983933" data-api-returntype="File">Lab15.pdf</a></p>\n
+ <p><a id="11739267" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983968?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983968" data-api-returntype="File">Lab15.java</a></p>\n<p><a id=
+ "9844504" class="instructure_file_link inline_disabled" title="Link" href=
+ "https://canvas.cmu.edu/courses/48631/files/12983734?wrap=1" target="_blan
+ k" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12
+ 983734" data-api-returntype="File">Customer.java</a></p>\n<p><a id="984450
+ 0" class="instructure_file_link inline_disabled" title="Link" href="https:
+ //canvas.cmu.edu/courses/48631/files/12983733?wrap=1" target="_blank" data
+ -api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983733"
+  data-api-returntype="File">customers.csv</a></p>\n<p><a id="9844501" clas
+ s="instructure_file_link inline_disabled" title="Link" href="https://canva
+ s.cmu.edu/courses/48631/files/12983866?wrap=1" target="_blank" data-api-en
+ dpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983866" data-a
+ pi-returntype="File">RatingType.java</a></p>\n<p><a id="9844501" class="in
+ structure_file_link inline_disabled" title="Link" href="https://canvas.cmu
+ .edu/courses/48631/files/12983866?wrap=1" target="_blank" data-api-endpoin
+ t="https://canvas.cmu.edu/api/v1/courses/48631/files/12983866" data-api-re
+ turntype="File"></a><a id="9844505" class="instructure_file_link instructu
+ re_scribd_file inline_disabled" title="Link" href="https://canvas.cmu.edu/
+ courses/48631/files/12983867?wrap=1" target="_blank" data-canvas-previewab
+ le="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/f
+ iles/12983867" data-api-returntype="File">testdata.txt</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 16 [95712]
+DTSTART:20251106T143000Z
+DTEND:20251106T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861146
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab16.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 38?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861146
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11862849" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983938?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983938" data-api-returntype="File">Lab16.pdf</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab17 [95712]
+DTSTART:20251108T143000Z
+DTEND:20251108T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861158
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab17.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 44?wrap=1)\n\n[Lab17.zip] (https://canvas.cmu.edu/courses/48631/files/1298
+ 3939?wrap=1)\n\n[Lab17Main.java] (https://canvas.cmu.edu/courses/48631/fil
+ es/12983940?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861158
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11862866" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983944?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983944" data-api-returntype="File">Lab17.pdf</a></p>\n
+ <p><a id="11862867" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983939?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983939" data-api-returntype="File">Lab17.zip</a></p>\n<p><a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="L
+ ab17Main.java" href="https://canvas.cmu.edu/courses/48631/files/12983940?w
+ rap=1" target="_blank" data-canvas-previewable="false" data-api-endpoint="
+ https://canvas.cmu.edu/api/v1/courses/48631/files/12983940" data-api-retur
+ ntype="File">Lab17Main.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 8 [95712]
+DTSTART;VALUE=DATE:20251108
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861171
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861171
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 18 [95712]
+DTSTART:20251113T143000Z
+DTEND:20251113T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861147
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab18.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 48?wrap=1)\n\n[Employee.class] (https://canvas.cmu.edu/courses/48631/files
+ /12983950?wrap=1)\n\n[dogsdb.sqlite3] (https://canvas.cmu.edu/courses/4863
+ 1/files/12983975?wrap=1)\n\n[Lab18BDriver.java] (https://canvas.cmu.edu/co
+ urses/48631/files/12983976?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861147
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11903033" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983948?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983948" data-api-returntype="File">Lab18.pdf</a></p>\n
+ <p><a id="11904914" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983950?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983950" data-api-returntype="File">Employee.class</a></p>\n<p><a
+  id="11903032" class="instructure_file_link inline_disabled" title="Link" 
+ href="https://canvas.cmu.edu/courses/48631/files/12983975?wrap=1" target="
+ _blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/fil
+ es/12983975" data-api-returntype="File">dogsdb.sqlite3</a></p>\n<p><a clas
+ s="instructure_file_link instructure_scribd_file inline_disabled" title="L
+ ab18BDriver.java" href="https://canvas.cmu.edu/courses/48631/files/1298397
+ 6?wrap=1" target="_blank" data-canvas-previewable="false" data-api-endpoin
+ t="https://canvas.cmu.edu/api/v1/courses/48631/files/12983976" data-api-re
+ turntype="File">Lab18BDriver.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab19 [95712]
+DTSTART:20251115T143000Z
+DTEND:20251115T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861159
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab19.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 72?wrap=1)\n\n[Client.java] (https://canvas.cmu.edu/courses/48631/files/12
+ 983973?wrap=1)\n\n[Server.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983977?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861159
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11913285" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983972?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983972" data-api-returntype="File">Lab19.pdf</a></p>\n
+ <p><a id="11913326" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983973?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983973" data-api-returntype="File">Client.java</a></p>\n<p><a id
+ ="11913327" class="instructure_file_link inline_disabled" title="Link" hre
+ f="https://canvas.cmu.edu/courses/48631/files/12983977?wrap=1" target="_bl
+ ank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/
+ 12983977" data-api-returntype="File">Server.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 9 [95712]
+DTSTART;VALUE=DATE:20251115
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861172
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861172
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 12.1 [95712]
+DTSTART;VALUE=DATE:20251116
+DTSTAMP:20250828T155700Z
+UID:event-assignment-861177
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861177
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Quiz 12.2 [95712]
+DTSTART;VALUE=DATE:20251116
+DTSTAMP:20250828T155800Z
+UID:event-assignment-861178
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861178
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 9: HDFS\, Map-Reduce\, and Spark [95702]
+DTSTART:20251117T190000Z
+DTEND:20251117T190000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861098
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=11&year=2025#assignment_861098
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midterm 3- Requires Respondus LockDown Browser [95712]
+DTSTART:20251120T155000Z
+DTEND:20251120T155000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861132
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861132
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 10: JMS [95702]
+DTSTART:20251124T190000Z
+DTEND:20251124T190000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861084
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=11&year=2025#assignment_861084
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 20 [95712]
+DTSTART:20251125T143000Z
+DTEND:20251125T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861149
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab20.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 81?wrap=1)\n\n[lab20.zip] (https://canvas.cmu.edu/courses/48631/files/1298
+ 3982?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861149
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11927524" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983981?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983981" data-api-returntype="File">Lab20.pdf</a></p>\n
+ <p><a id="11927525" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983982?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983982" data-api-returntype="File">lab20.zip</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 10 [95712]
+DTSTART;VALUE=DATE:20251129
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861163
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=11&year=2025#assignment_861163
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homework 3 [95712]
+DTSTART;VALUE=DATE:20251201
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861138
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Homework 3.pdf] (https://canvas.cmu.edu/courses/48631/files/1
+ 2983951?wrap=1)\n\n[hw3.db] (https://canvas.cmu.edu/courses/48631/files/12
+ 983952?wrap=1)\n\nNote: for all three test case files\, you *must* run the
+  server first. Also\, be careful if you're adding/deleting users and asset
+ s: copy the above db file again before running these test cases.\n\n[hw3Ba
+ sicTestCases.java] (https://canvas.cmu.edu/courses/48631/files/12983993?wr
+ ap=1)\n\n[hw3MapTestCases.java] (https://canvas.cmu.edu/courses/48631/file
+ s/12983994?wrap=1)\n\n[hw3ServerTestCases.java] (https://canvas.cmu.edu/co
+ urses/48631/files/12983995?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861138
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11892760" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983951?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983951" data-api-returntype="File">Homework 3.pdf</a><
+ /p>\n<p><a id="11892762" class="instructure_file_link inline_disabled" tit
+ le="Link" href="https://canvas.cmu.edu/courses/48631/files/12983952?wrap=1
+ " target="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses
+ /48631/files/12983952" data-api-returntype="File">hw3.db</a></p>\n<p>Note:
+  for all three test case files\, you *must* run the server first. Also\, b
+ e careful if you're adding/deleting users and assets: copy the above db fi
+ le again before running these test cases.</p>\n<p><a class="instructure_fi
+ le_link instructure_scribd_file inline_disabled" title="hw3BasicTestCases.
+ java" href="https://canvas.cmu.edu/courses/48631/files/12983993?wrap=1" ta
+ rget="_blank" data-canvas-previewable="false" data-api-endpoint="https://c
+ anvas.cmu.edu/api/v1/courses/48631/files/12983993" data-api-returntype="Fi
+ le">hw3BasicTestCases.java</a></p>\n<p><a class="instructure_file_link ins
+ tructure_scribd_file inline_disabled" title="hw3MapTestCases.java" href="h
+ ttps://canvas.cmu.edu/courses/48631/files/12983994?wrap=1" target="_blank"
+  data-canvas-previewable="false" data-api-endpoint="https://canvas.cmu.edu
+ /api/v1/courses/48631/files/12983994" data-api-returntype="File">hw3MapTes
+ tCases.java</a></p>\n<p><a class="instructure_file_link instructure_scribd
+ _file inline_disabled" title="hw3ServerTestCases.java" href="https://canva
+ s.cmu.edu/courses/48631/files/12983995?wrap=1" target="_blank" data-canvas
+ -previewable="false" data-api-endpoint="https://canvas.cmu.edu/api/v1/cour
+ ses/48631/files/12983995" data-api-returntype="File">hw3ServerTestCases.ja
+ va</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 21 [95712]
+DTSTART:20251202T143000Z
+DTEND:20251202T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861150
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab21.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 90?wrap=1)\n\n[Lab21.zip] (https://canvas.cmu.edu/courses/48631/files/1298
+ 3989?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861150
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="11974074" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983990?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983990" data-api-returntype="File">Lab21.pdf</a></p>\n
+ <p><a id="11974071" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983989?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983989" data-api-returntype="File">Lab21.zip</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 11: Threads [95702]
+DTSTART:20251203T190000Z
+DTEND:20251203T190000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861085
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=12&year=2025#assignment_861085
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 22 [95712]
+DTSTART:20251204T143000Z
+DTEND:20251204T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861151
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab22.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 85?wrap=1)\n\n[Main.java] (https://canvas.cmu.edu/courses/48631/files/1298
+ 3986?wrap=1)\n\n[Note.java] (https://canvas.cmu.edu/courses/48631/files/12
+ 983987?wrap=1)\n\n[NoteCollection.java] (https://canvas.cmu.edu/courses/48
+ 631/files/12983984?wrap=1)\n\n[notes.txt] (https://canvas.cmu.edu/courses/
+ 48631/files/12983988?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861151
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12017511" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983985?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983985" data-api-returntype="File">Lab22.pdf</a></p>\n
+ <p><a id="12017512" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983986?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983986" data-api-returntype="File">Main.java</a></p>\n<p><a id="
+ 12017513" class="instructure_file_link inline_disabled" title="Link" href=
+ "https://canvas.cmu.edu/courses/48631/files/12983987?wrap=1" target="_blan
+ k" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12
+ 983987" data-api-returntype="File">Note.java</a></p>\n<p><a id="12017510" 
+ class="instructure_file_link inline_disabled" title="Link" href="https://c
+ anvas.cmu.edu/courses/48631/files/12983984?wrap=1" target="_blank" data-ap
+ i-endpoint="https://canvas.cmu.edu/api/v1/courses/48631/files/12983984" da
+ ta-api-returntype="File">NoteCollection.java</a></p>\n<p><a id="11333816" 
+ class="instructure_file_link instructure_scribd_file inline_disabled" titl
+ e="Link" href="https://canvas.cmu.edu/courses/48631/files/12983988?wrap=1"
+  target="_blank" data-canvas-previewable="true" data-api-endpoint="https:/
+ /canvas.cmu.edu/api/v1/courses/48631/files/12983988" data-api-returntype="
+ File">notes.txt</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lab 23 [95712]
+DTSTART:20251206T143000Z
+DTEND:20251206T143000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861152
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:[Lab23.pdf] (https://canvas.cmu.edu/courses/48631/files/129839
+ 91?wrap=1)\n\n[Main-23.java] (https://canvas.cmu.edu/courses/48631/files/1
+ 2983954?wrap=1)
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861152
+X-ALT-DESC;FMTTYPE=text/html:<p><a id="12031087" class="instructure_file_l
+ ink instructure_scribd_file inline_disabled" title="Link" href="https://ca
+ nvas.cmu.edu/courses/48631/files/12983991?wrap=1" target="_blank" data-can
+ vas-previewable="true" data-api-endpoint="https://canvas.cmu.edu/api/v1/co
+ urses/48631/files/12983991" data-api-returntype="File">Lab23.pdf</a></p>\n
+ <p><a id="12031086" class="instructure_file_link inline_disabled" title="L
+ ink" href="https://canvas.cmu.edu/courses/48631/files/12983954?wrap=1" tar
+ get="_blank" data-api-endpoint="https://canvas.cmu.edu/api/v1/courses/4863
+ 1/files/12983954" data-api-returntype="File">Main-23.java</a></p>
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiz 11 [95712]
+DTSTART;VALUE=DATE:20251206
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861164
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861164
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exam- Requires Respondus LockDown Browser [95702]
+DTSTART:20251208T200000Z
+DTEND:20251208T200000Z
+DTSTAMP:20250812T204600Z
+UID:event-assignment-861082
+SEQUENCE:0
+CLASS:PUBLIC
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 0&month=12&year=2025#assignment_861082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exam Part 1- Requires Respondus LockDown Browser [95712]
+DTSTART:20251212T140000Z
+DTEND:20251212T140000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861134
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861134
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Final Exam Part 2- Requires Respondus LockDown Browser [95712]
+DTSTART:20251212T153000Z
+DTEND:20251212T153000Z
+DTSTAMP:20250825T204900Z
+UID:event-assignment-861135
+SEQUENCE:0
+CLASS:PUBLIC
+DESCRIPTION:
+URL;VALUE=URI:https://canvas.cmu.edu/calendar?include_contexts=course_4863
+ 1&month=12&year=2025#assignment_861135
+X-ALT-DESC;FMTTYPE=text/html:
+END:VEVENT
+END:VCALENDAR
