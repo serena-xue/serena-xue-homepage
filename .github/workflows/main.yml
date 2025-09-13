@@ -2,7 +2,8 @@ name: Update Filtered Calendar
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    # 修改 4: 每3小时运行一次 (例如在 0:00, 3:00, 6:00...)
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,21 +19,24 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
+          # 修改 3: Python 版本更新为 3.11
           python-version: '3.11'
 
       - name: Install dependencies
+        # 假设 requirements.txt 仍在项目根目录
         run: pip install -r requirements.txt
 
       - name: Run calendar filter script
         env:
-          SOURCE_CAL-ENDAR_URL: ${{ secrets.SOURCE_CALENDAR_URL }}
-          FILTER_KEYWORDS_CSV: 'Office Hour'
+          SOURCE_CALENDAR_URL: ${{ secrets.SOURCE_CALENDAR_URL }}
+          # 修改 2: 过滤字符串改为 'Office Hours'
+          FILTER_KEYWORDS_CSV: 'Office Hours'
           FILTER_MODE: 'exclude'
           FILTER_CASE_SENSITIVE: 'false'
           OUTPUT_FILENAME: 'filtered_calendar.ics'
+        # 修改 1: 脚本路径更新
         run: python calendar_updater/filter_calendar.py
 
-      # ⬇️ 新增的调试步骤
       - name: Verify generated file
         run: |
           echo "Verifying contents of the output directory..."
@@ -44,7 +48,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           publish_branch: gh-pages
-          # ⬇️ 新增的参数，确保每次都提交
           allow_empty_commit: true
           commit_message: "chore: auto-update calendar feed"
           user_name: 'github-actions[bot]'
