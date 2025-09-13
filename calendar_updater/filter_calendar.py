@@ -1,15 +1,17 @@
 import os
 import requests
 from icalendar import Calendar, Event
+import sys
 
 # --- 配置 ---
-# 从环境变量中获取源日历URL，这样做更安全
-# 在GitHub Actions中，我们会设置一个名为 SOURCE_CALENDAR_URL 的 Secret
+# 从环境变量中获取源日历URL
 SOURCE_URL = os.environ.get('SOURCE_CALENDAR_URL')
 # 定义要过滤掉的关键词
 FILTER_KEYWORD = 'Office Hours'
-# 输出文件名
-OUTPUT_FILE = 'filtered_calendar.ics'
+# 定义输出目录和文件名
+OUTPUT_DIR = 'output'
+OUTPUT_FILENAME = 'filtered_calendar.ics'
+OUTPUT_FILE_PATH = os.path.join(OUTPUT_DIR, OUTPUT_FILENAME)
 
 
 def filter_calendar():
@@ -18,7 +20,7 @@ def filter_calendar():
     """
     if not SOURCE_URL:
         print("错误：环境变量 SOURCE_CALENDAR_URL 未设置。")
-        return
+        sys.exit(1) # 脚本失败并退出
 
     try:
         # 1. 下载源日历内容
@@ -32,7 +34,7 @@ def filter_calendar():
         # 3. 创建一个新的日历对象
         new_cal = Calendar()
 
-        # 复制源日历的元数据（如时区、名称等）到新日历
+        # 复制源日历的元数据
         for key, value in source_cal.items():
             if key.upper() != 'VEVENT':
                 new_cal.add(key, value)
@@ -42,29 +44,33 @@ def filter_calendar():
         filtered_count = 0
 
         # 4. 遍历所有事件并应用过滤规则
-        for component in source_cal.walk():
-            if component.name == "VEVENT":
-                event_count += 1
-                summary = component.get('summary', '').upper()  # 获取标题并转为大写，便于不区分大小写匹配
+        for component in source_cal.walk('VEVENT'):
+            event_count += 1
+            summary = component.get('summary', '').upper()
 
-                # 如果标题中不包含关键词，则保留该事件
-                if FILTER_KEYWORD.upper() not in summary:
-                    new_cal.add_component(component)
-                else:
-                    filtered_count += 1
-                    print(f"已过滤事件: {component.get('summary')}")
+            # 如果标题中不包含关键词，则保留该事件
+            if FILTER_KEYWORD.upper() not in summary:
+                new_cal.add_component(component)
+            else:
+                filtered_count += 1
+                print(f"已过滤事件: {component.get('summary')}")
 
         print(f"处理完成。总共 {event_count} 个事件，过滤掉 {filtered_count} 个。")
 
-        # 5. 将新日历写入文件
-        with open(OUTPUT_FILE, 'wb') as f:
+        # 5. 确保输出目录存在
+        os.makedirs(OUTPUT_DIR, exist_ok=True)
+        
+        # 6. 将新日历写入文件
+        with open(OUTPUT_FILE_PATH, 'wb') as f:
             f.write(new_cal.to_ical())
-        print(f"已生成新的日历文件: {OUTPUT_FILE}")
+        print(f"已生成新的日历文件: {OUTPUT_FILE_PATH}")
 
     except requests.exceptions.RequestException as e:
         print(f"获取日历时发生网络错误: {e}")
+        sys.exit(1) # 脚本失败并退出
     except Exception as e:
         print(f"处理日历时发生未知错误: {e}")
+        sys.exit(1) # 脚本失败并退出
 
 
 if __name__ == "__main__":
