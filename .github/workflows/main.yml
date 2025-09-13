@@ -8,8 +8,6 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    
-    # ⬇️ 新增：为整个 job 授予对仓库内容的写权限
     permissions:
       contents: write
       
@@ -20,37 +18,34 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       - name: Run calendar filter script
         env:
-          # [必需] 你的源日历 .ics 链接。
-          SOURCE_CALENDAR_URL: ${{ secrets.SOURCE_CALENDAR_URL }}
-
-          # [可选] 需要过滤的关键词，多个用英文逗号(,)分隔
+          SOURCE_CAL-ENDAR_URL: ${{ secrets.SOURCE_CALENDAR_URL }}
           FILTER_KEYWORDS_CSV: 'Office Hour'
-
-          # [可选] 过滤模式: 'exclude' 或 'include'
           FILTER_MODE: 'exclude'
-
-          # [可选] 关键词匹配是否区分大小写: 'false' 或 'true'
           FILTER_CASE_SENSITIVE: 'false'
-
-          # [可选] 输出的日历文件名。
           OUTPUT_FILENAME: 'filtered_calendar.ics'
         run: python calendar_updater/filter_calendar.py
+
+      # ⬇️ 新增的调试步骤
+      - name: Verify generated file
+        run: |
+          echo "Verifying contents of the output directory..."
+          ls -R ./output
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # 将 'output' 目录下的所有内容发布到 gh-pages 分支
           publish_dir: ./output
           publish_branch: gh-pages
-          # ⬆️ 已移除无效的 'publish_exclude' 参数
+          # ⬇️ 新增的参数，确保每次都提交
+          allow_empty_commit: true
           commit_message: "chore: auto-update calendar feed"
           user_name: 'github-actions[bot]'
           user_email: 'github-actions[bot]@users.noreply.github.com'
