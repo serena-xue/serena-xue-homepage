@@ -48,8 +48,8 @@ def filter_calendar():
             event_count += 1
 
             # --- 本地调试：打印前10个源事件的标题 ---
-            if event_count <= 10:
-                print(f"[调试] 源事件 {event_count}: {component.get('summary', '没有标题')}")
+            # if event_count <= 10:
+            #     print(f"[调试] 源事件 {event_count}: {component.get('summary', '没有标题')}")
             # -----------------------------------------
 
             summary = component.get('summary', '').upper()
